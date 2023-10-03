@@ -1,4 +1,4 @@
-# PDDL
+# MAI-PAR-2023-2024
 
 ## Domain.pddl
 Este archivo define el dominio del problema en lenguaje PDDL (Planning Domain Definition Language). Incluye la especificación de los siguientes elementos:
